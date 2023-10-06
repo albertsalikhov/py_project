@@ -1,8 +1,12 @@
 def func_plus():
     a = int(input())
     b = int(input())
-    print(a+b)
+    print(a + b)
 
 
-func_plus()
+def func_subtraction():
+    a = int(input())
+    b = int(input())
+    print(a - b)
+
 
